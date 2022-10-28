@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz,wght@8..144,300&display=swap');
+
+*{
+    font-family: 'Roboto Flex', sans-serif;
+}
+
+.foto{
+    padding-left: 1em;
+    padding-right: 1em;
+    width: ;
+}
+
+.texto{
+    margin: 0 auto;
+    max-width: 50em;
+    bottom: 0;
+}
+.redesContainer{
+    font-size: 0.9em;
+}
+
+.recetaContainer{
+    list-style-position: inside;
+}
+
+.recetaContainer ul{
+    display: inline-block;
+    text-align: left;
+}
+
+.pasosContainer{
+    list-style-position: inside;
+}
+
+.pasosContainer ul{
+    display: inline-block;
+    text-align: left;
+}
